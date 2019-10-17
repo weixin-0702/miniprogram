@@ -1,0 +1,4 @@
+<!--pages/main/main.wxml-->
+<view>
+<text bindtap="getUserInfo">点击获取用户信息</text>
+</view>
